@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="tab_text_1">MyMusic</string>
+    <string name="tab_text_2">Search</string>
+    <string name="tab_text_3">Recs</string>
+
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="recommend">Recommend</string>
+    <string name="refresh">Refresh</string>
+</resources>
